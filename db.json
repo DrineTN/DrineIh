@@ -7,7 +7,7 @@
       "cpu":"i7",
       "ram":"8go",
       "dd":"500go",
-    }
+    },
     {
       "id": 2,
       "type": "desktop",
@@ -15,7 +15,7 @@
       "cpu":"i7",
       "ram":"8go",
       "dd":"500go",
-    }
+    },
     {
       "id": 3,
       "type": "desktop",
@@ -25,7 +25,4 @@
       "dd":"500go",
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
