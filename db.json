@@ -1,12 +1,11 @@
 {
-  "ordi": [
+  "posts": [
     {
       "id": 1,
-      "type": "desktop",
-      "marque":"hp",
-      "cpu":"i7",
-      "ram":"8go",
-      "dd":"500go",
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
